@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Step hi
-        run: echo "Hello aaa"
+        run: echo "Hello aaa cicd"
